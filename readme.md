@@ -1,6 +1,8 @@
 # Clink and oh-my-posh Config
 
-> My cmd configuration files
+> My terminal configuration files
+
+This is my Windows terminal config. I am looking to add my Linux config in time.
 
 # Install
 
